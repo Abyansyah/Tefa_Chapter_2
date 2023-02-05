@@ -4,13 +4,11 @@
 
 ## Documentation
 
-- Page home
-
-![image](https://user-images.githubusercontent.com/80156805/216799754-57ffe991-4434-4526-a843-eabaed1ac4a1.png)
+- Page Home
+![image](https://user-images.githubusercontent.com/80156805/216799851-42977738-0d7d-4e9a-bbf1-c8bced54fd90.png)
 
 - Page Produk
-
-![image](https://user-images.githubusercontent.com/80156805/216799829-7343a2c6-b3ef-4a11-b317-3eec873043e0.png)
+![image](https://user-images.githubusercontent.com/80156805/216799857-dc1ba772-8e91-49a7-bdad-a5c9c0ecdf74.png)
 
 
 ## Features
